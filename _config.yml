@@ -1,11 +1,11 @@
 # Site settings
 title: Sonatas for Yuanduo He
-email: 694912391@qq.com
+#email: 694912391@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   我觉得我一直追寻的，就是如何让自己不去追寻。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: none
+#twitter_username: none
 github_username:  rubyhyd
 
 # Build settings
