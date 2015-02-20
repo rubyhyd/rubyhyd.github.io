@@ -2,9 +2,7 @@
 title: 我的奏鸣曲
 email: pkueecshyd@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  我一直追寻的，就是如何让自己不去追寻。\n
-  Less is More.\n
-  Simple is Beauty.
+  我一直追寻的，就是如何让自己不去追寻。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://home4pa.com" # the base hostname & protocol for your site
 #twitter_username: none
